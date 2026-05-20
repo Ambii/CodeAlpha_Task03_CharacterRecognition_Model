@@ -119,9 +119,9 @@ CodeAlpha_HandwrittenDigitRecognition/
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- LinkedIn: [Your Profile]
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+AmbreeN Zafar
+- LinkedIn: www.linkedin.com/in/ambreen-zafar-71101b51
+- GitHub: https://github.com/Ambii
 
 ## 📜 License
 
